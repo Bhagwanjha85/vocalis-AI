@@ -20,13 +20,16 @@
 
 ---
 
-## 🖼️ Frontend Overview
+## 🖼️ TechStack Overview
 
-- **Tech Stack:** HTML, CSS, JavaScript
+- **Tech Stack:** HTML5, CSS3, JavaScript
 - **Audio Input Options:**
   - Upload `.wav` or `.mp3` files
   - Record audio directly in-browser
 - **Dark Mode:** Toggle available
+- **Backend:** Lstm/RNN,LightGBM and librosa
+- **DL Model:** Tensorflow
+- **Routing:** FASTApi
 
 ---
 
